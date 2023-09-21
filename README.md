@@ -53,8 +53,7 @@ PC 및 휴대폰은 충전기/전원케이블과 연결하였나요?|11 page
 - case1) 안드로이드 휴대폰 사용시
 <p align="center"> [화면 켜집 상태 유지 방법] </p>
 
-<img src="./이미지/그림1.png" width="300" height="400"/>
-<img src="./이미지/그림2.png" align="right" width="400" height="400"/>
+<img src="./이미지/그림1.png" width="300" height="400"/> <img src="./이미지/그림2.png" align="right" width="400" height="400"/>
 <img src="./이미지/그림3.png" width="300" height="400"/>
 
 ① 설정 > 휴대전화 정보 > 소프트웨어 정보 메뉴로 이동 [br]
