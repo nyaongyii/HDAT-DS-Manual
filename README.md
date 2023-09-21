@@ -53,7 +53,7 @@ PC 및 휴대폰은 충전기/전원케이블과 연결하였나요?|11 page
 - case1) 안드로이드 휴대폰 사용시
 <p align="center"> [화면 켜집 상태 유지 방법] </p>
 
-<img src="./이미지/그림1.png" width="260" height="350"/> <p align="center"><img src="./이미지/그림2.png" width="300" height="350"/></p> <img src="./이미지/그림3.png" align="right" width="260" height="350"/>
+<img src="./이미지/그림1.png" width="250" height="340"/> <p align="center"><img src="./이미지/그림2.png" width="300" height="340"/></p> <img src="./이미지/그림3.png" align="right" width="250" height="340"/>
 
 ① 설정 > 휴대전화 정보 > 소프트웨어 정보 메뉴로 이동 [br]
 ② [빌드번호] 연속으로 7회 이상 터치한 후, ＂개발자 모드를 켰습니다.＂ 메시지 확인 [br] ※ 경우에 따라 기기 암호 입력 要     
