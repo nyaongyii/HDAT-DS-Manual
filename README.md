@@ -1,6 +1,5 @@
-##### 현대자동차 연구개발본부    
-## HDAT 응시 매뉴얼    
-##### Hyundai motor group Data Analytics Test    
+![메인 페이지](/이미지/그림7.png)
+
 <br>
     
 ### ※ 시험 전 체크리스트_2    
